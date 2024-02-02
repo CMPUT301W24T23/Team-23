@@ -11,5 +11,4 @@ public class Square extends Shape {
     public void draw(Canvas canvas, Paint paint) {
 
     }
-public class Square1 extends Shape {
 }
